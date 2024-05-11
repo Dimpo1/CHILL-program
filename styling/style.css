@@ -1,0 +1,21 @@
+.home {
+  font-family: "Prata", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.offcanvas-body li a {
+  color: #56aeea;
+}
+
+.offcanvas-body li a:hover {
+  font-size: large;
+  color: aquamarine;
+}
+
+/*.chillpic {
+  background-color: #aa9fda;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: 10% !important;
+}*/
