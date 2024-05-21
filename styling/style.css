@@ -1,11 +1,10 @@
 .content {
-  background-image: url("pic11.jpg");
+  background-image: url("pic15.jpg");
   background-size: cover; /* Cover the entire container */
   background-position: center; /* Center the background image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-color: #c7e9ed;
-  font-family: "Prata", serif;
-  font-weight: 400;
+  font-family: "Marcellus", serif;
   font-style: normal;
   height: 90vh;
   color: white;
@@ -14,19 +13,60 @@
   align-items: center;
   justify-content: center;
   text-align: center;
-  margin: 0;
+  padding: 40px;
+  margin-top: 300px;
+}
+
+.content h3 {
+  font-size: 50px;
+}
+
+.content h2 {
+  font-size: 70px;
+  font-family: "Protest Revolution", sans-serif;
+  font-style: normal;
+}
+
+.content h2:hover {
+  border: 1px solid white;
+  border-radius: 50px;
+  padding: 10px 20px;
+}
+
+#About {
+  font-family: "Marcellus", serif;
+  font-style: normal;
+}
+
+#About h3 {
+  margin: 20px;
+  font-size: 30px;
+}
+
+#text {
+  line-height: 25px;
+}
+
+.arrow-container a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px; /* Adjust this value as needed */
+  color: white;
+  width: 40px;
+  height: 40px;
 }
 
 .offcanvas-body li a {
   color: #56aeea;
-  font-family: "Prata", serif;
-  font-weight: 400;
+  font-family: "Protest Revolution", sans-serif;
+  font-size: 40px;
   font-style: normal;
+  line-height: 15px;
 }
 
 .offcanvas-body li a:hover {
   font-size: large;
-  color: aquamarine;
 }
 
 .navbar-brand {
