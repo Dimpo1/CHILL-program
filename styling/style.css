@@ -1,5 +1,5 @@
 .content {
-  background-image: url("pic15.jpg");
+  background-image: url("pic4.jpg");
   background-size: cover; /* Cover the entire container */
   background-position: center; /* Center the background image */
   background-repeat: no-repeat; /* Do not repeat the image */
@@ -39,6 +39,7 @@
   font-family: "Marcellus", serif;
   font-style: normal;
   margin-top: 100px;
+  color: #195175;
 }
 
 .WhatWeOffer h2 {
@@ -49,11 +50,24 @@
 }
 
 .WhatWeOffer h3 {
-  color: rgb(132, 122, 197);
+  color: rgb(34, 79, 175);
+}
+
+.Program {
+  margin-bottom: 20px;
 }
 
 .Program h3 {
   margin-bottom: 30px;
+}
+
+.Program a {
+  text-decoration: none;
+  background-color: #56aeea;
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+  margin: 50px;
 }
 
 #About {
@@ -69,7 +83,7 @@
 #text {
   line-height: 25px;
 
-  color: #a6cce5;
+  color: #195175;
   border-radius: 10px 10px;
   padding: 20px;
 }
