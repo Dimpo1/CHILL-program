@@ -233,13 +233,14 @@ footer .col-4 h6 {
 @media (max-width: 768px) {
   .content h3 {
     font-size: 3rem;
+    padding-top: 30px;
   }
   .content h2 {
     font-size: 100px;
   }
 
   .content h2:hover {
-    font-size: 2.2rem;
+    font-size: 110px;
   }
 
   .WhatWeOffer h2 {
@@ -270,13 +271,14 @@ footer .col-4 h6 {
 
   .content h3 {
     font-size: 2rem;
+    padding-top: 30px;
   }
   .content h2 {
     font-size: 40px;
   }
 
   .content h2:hover {
-    font-size: 1.5rem;
+    font-size: 45px;
   }
 
   .WhatWeOffer h2 {
